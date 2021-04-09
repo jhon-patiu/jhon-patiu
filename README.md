@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jhon-patiu
-- 👀 I’m interested in Web App Development
+- 👀 I’m interested in Web / Mobile App Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any html,css, and JS project
 - 📫 How to reach me: patiunohj@gmail.com
