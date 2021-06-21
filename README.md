@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jhon-patiu
 - 👀 I’m interested in Web / Mobile App Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on any html,css, and JS project
+- 🌱 I’m currently learning JavaScript, React.js, npm
+- 💞️ I’m looking to collaborate on Front-End Dev projects
 - 📫 How to reach me: patiunohj@gmail.com
 
 <!---
