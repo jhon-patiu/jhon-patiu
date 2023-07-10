@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jhon-patiu
-- 👀 I’m interested in Web / Mobile App Development
+- 👀 I’m interested in Web and iOS Development
 - 📫 How to reach me: patiunohj@gmail.com
 
 <!---
