@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @jhon-patiu
-- 👀 I’m interested in Web and iOS Development
-- 📫 How to reach me: patiunohj@gmail.com
+Hello, I'm L.. current web dev, interested in cybersec and other stuff
 
 <!---
 jhon-patiu/jhon-patiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
